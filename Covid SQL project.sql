@@ -1,7 +1,0 @@
-SELECT TOP (1000) [continent]
-      ,[location]
-      ,[date]
-      ,[population]
-      ,[new_vaccinations]
-      ,[Rolling_people_vaccinated]
-  FROM [Portfolio Project].[dbo].[percentPopulationvaccinated]
